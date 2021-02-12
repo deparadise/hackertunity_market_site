@@ -22,7 +22,7 @@ module.exports = {
 				],
 			},
 			{
-				name: 'Career Catalyst',
+				name: 'Career Catalysts',
 				link: '',
 				subMenu: [
 					{
@@ -37,17 +37,8 @@ module.exports = {
 						name: 'Working Remotely',
 						link: '',
 					},
-					{
-						name: 'Working Remotely',
-						link: '',
-					},
 				],
 			},
-			// {
-			// 	name: 'Covid-19',
-			// 	link: '',
-			// 	subMenu: []
-			// }
 		],
 	},
 	plugins: [
